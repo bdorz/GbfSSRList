@@ -1,0 +1,216 @@
+*メドゥーサ (梅杜莎)
+//[[連結的名稱>連到的頁面名稱]]
+//[[十天衆主頁]]
+//[[終突SR角主頁]]
+[[火屬性主頁]]
+//關連頁面: [[連結角色名>連結角色位置]]
+**基本資料
+{| width="1200"
+|> |> |> |~w(400px):center:メドゥーサ|> |> |>|w(800px):center:[水翔ける魔眼姫]メドゥーサ|
+
+|> |> |> |w(400px):center:&ref(https://image02.seesaawiki.jp/g/o/gbfssrlistbyod-memo/EeqpAbDWz5.png,400)|> |> |w(400px):center:&ref(https://image02.seesaawiki.jp/g/o/gbfssrlistbyod-memo/87vVlFmAgq.png,400) |w(400px):h(350px):center:- |
+
+|~w(100px):center:種族 |w(100px):center:類型 |w(100px):center:得意 |w(100px):center:聲優 |> |> |center:HP |center:ATK |
+|center:星晶獣 |center:防御 |center:杖/格闘|center:水橋かおり |> |> |center:1940 |center:7100 |
+|~w(100px):center:奧義 |> |> |w(300px):center:名稱 |> |> |> |w(800px):center:效果 |
+|^ |> |> |center:メドゥシアナ・スライダー |> |> |> |center:火屬性傷害(特大)/我方全體幻影效果(1次)/自身全迴避效果(1次) |
+|^ |> |> |^ |> |> |> | [倍率]4.5倍~~[強化]我方全體幻影效果(1次)，持續永久或直到被打消~~[強化]自身全迴避效果(1次)，受到傷害時消耗此效果並且此回合迴避所有攻&#25802;與弱體&#29376;態，持續永久或直到被消耗 |
+
+
+|~center:技能 |> |> |center:名稱 |center:等級 |center:持續 |center:冷卻 |center:效果 |
+|^ |> |> |center:&color(#FFD700){■}ミラージュ・アイ |center:初期 |center:永久/~~3回合 |center:8回合 |center:我方全體反射盾效果(1次)/預防盾效果(1次)~~&color(#0000FF){◆波蛇Lv5時，追加屏障效果/迴避反&#25802;效果(2次)} |
+|^ |> |> |^ |center:55 |center:^ |center:7回合 |center:^ |
+|^ |> |> |^ |> |> |> | [強化]我方全體反射盾效果(60%)，持續1次或3回合~~[強化]我方全體預防盾效果(1次)，持續永久或直到被消耗~~[強化]如果波蛇Lv5，則追加下列效果~~　我方全體屏障效果(5000)，持續永久或直到被打消~~　我方全體迴避反&#25802;效果(2次/2倍)，持續3回合 |
+
+
+
+|^ |> |> |center:&color(#FF0000){■}サーペントスパイク |center:初期 |center:180秒 |center:6回合 |center:亂數單體5次火屬性傷害/敵全體驅散1個強化&#29376;態/毒效果~~&color(#0000FF){◆根據波蛇的Lv，傷害次數UP(最大10次)} |
+|^ |> |> |^ |center:75 |center:^ |center:5回合 |center:^ |
+|^ |> |> |^ |> |> |> | [倍率]&#27599;下1倍，總和5倍，最大約10倍~~[上限]&#27599;下約12萬，總和約60萬，最大約120萬~~[效果]驅散敵全體1個強化&#29376;態~~[弱體]敵全體毒效果，&#27599;回合扣除敵方5%HP，上限5000~~　[命中]100%~~[特殊]根據波蛇的Lv増加攻&#25802;次數，最大10次 |
+|^ |> |> |center:&color(#6495ED){■}ペトリファクトゲイズ |center:45 |center:1回合/~~6回合 |center:11回合 |center:敵全體行動封印/連&#25802;率down/命中率down |
+|^ |> |> |^ |> |> |> | [弱體]敵全體行動封印，無法進行任何行動，單人型debuff，持續1回合，不可消除，不可延長~~　[命中]必中(弱體免疫也必定命中)~~[弱體]敵全體DA率down(100%)，TA率down(100%)，單人型debuff，持續6回合~~　[命中]200%~~[弱體]敵全體命中率down，攻&#25802;行為有30%機率MISS，單人型debuff，持續6回合~~　[命中]200% |
+|~center:被動 |> |> |center:名稱 |> |> |> |center:效果 |
+|^ |> |> |center:星トモのバカンス |> |> |> |center:隨隊伍中星晶獸種族的數量，自身獲得階段性能強化 |
+|^ |> |> |^ |> |> |> | [強化]隨隊伍中星晶獸種族的數量，自身獲得階段性能強化(包含自身)~~　1人:攻&#25802;倍率+30%~~　2人:防禦+100%~~　3人:必定TA~~　4人:迴避率+20%，通常類~~　5人:傷害上限+20% |
+|^ |> |> |center:波蛇の姫 |> |> |> |center:若梅杜莎沒受到傷害，則回合結束時波蛇Lv+1(最大5)~~&color(#0000FF){◆波蛇Lv5時，若梅杜莎沒受到傷害，則回合結束時發動一次&color(#FF0000){■}サーペントスパイク} |
+|^ |> |> |^ |> |> |> | [強化]若梅杜莎沒受到傷害，則回合結束時波蛇Lv+1(最大5)，永久不可消除~~[效果]波蛇Lv5時，若梅杜莎沒受到傷害，則回合結束時發動一次&color(#FF0000){■}サーペントスパイク |
+|}
+//紅色 #FF0000
+//黄色 #FFD700
+//綠色 #98F898
+//藍色 #6495ED
+//紫色 #BA55D3
+//◆用 &color(#0000FF){◆}
+//被動強化用 &color(#CC6600){強化&#20839;容}
+**評價
+泳裝小梅
+突破立繪好大.....我是&#35498;旁邊的薩提&#37292;
+
+該來的還是要來，火屬性的時間暫停，果不其然的又是出在季節限定角上
+這次CY學乖了，一出就有給不能延長的tag防止被玩壞
+包括芙勞的後備效果和技能的延長效果都無法增加持續時間
+基本上有這招就可以算是高難人權級角色了
+
+除此之外技能組定位類似雅典娜和聖誕涅莫涅
+條件疊層後自動發動多段技傷砲
+這次的條件是不受傷，跟涅莫涅一樣
+雖然小梅沒有像涅莫涅那樣的永久指定主角保護的效果
+但持有各種防禦手段
+奧義給的幻影和全迴避
+被動滿層後1技給的5000厚盾和迴避反&#25802;
+以及被動至少2個星晶獸的防禦&#20540;大幅提升
+意外的不太容易受到傷害
+如果隊伍組成至少有3個(含小梅)星晶獸的話，拿到必TA的效果能更加快奧義的迴轉
+高頻率的掛上全體幻影跟自身全迴避，就算敵人偏強也還是能一定程度上發揮波蛇的效果
+比較需要注意的就是普攻全體化而且攻&#25802;超級痛的那種敵人&#21543;
+
+&#21478;外
+因為1技給60%的反射效果，而且CD跟雅典娜的1技40%風cut對齊都是7
+FA一起使用的話可以相當於&#27599;7回合就有一次全體無敵效果
+
+
+[+]&color(#003377){&size(16){''奧義.メドゥシアナ・スライダー ''}}
+[倍率]4.5倍
+[強化]我方全體幻影效果(1次)，持續永久或直到被打消
+[強化]自身全迴避效果(1次)，受到傷害時消耗此效果並且此回合迴避所有攻&#25802;與弱體&#29376;態，持續永久或直到被消耗
+[END]
+南斗天翔十字鳳
+那個蛇的後背不是有尖刺的鱗片...玩這麼大的&#21966;
+
+火屬性第一個奧義給全體幻影的角色
+視敵人而定能有不錯的針對性
+
+[+]&color(#003377){&size(16){''技能1.ミラージュ・アイ ''}}
+[強化]我方全體反射盾效果(60%)，持續1次或3回合
+[強化]我方全體預防盾效果(1次)，持續永久或直到被消耗
+[強化]如果波蛇Lv5，則追加下列效果
+　我方全體屏障效果(5000)，持續永久或直到被打消
+　我方全體迴避反&#25802;效果(2次/2倍)，持續3回合
+[END]
+
+[+]&color(#003377){&size(16){''技能2.サーペントスパイク ''}}
+[倍率]&#27599;下1倍，總和5倍，最大約10倍
+[上限]&#27599;下約12萬，總和約60萬，最大約120萬
+[效果]驅散敵全體1個強化&#29376;態
+[弱體]敵全體毒效果，&#27599;回合扣除敵方5%HP，上限5000
+　[命中]100%
+[特殊]根據波蛇的Lv増加攻&#25802;次數，最大10次
+[END]
+
+[+]&color(#003377){&size(16){''技能3.ペトリファクトゲイズ ''}}
+[弱體]敵全體行動封印，無法進行任何行動，單人型debuff，持續1回合，不可消除，不可延長
+　[命中]必中(弱體免疫也必定命中)
+[弱體]敵全體DA率down(100%)，TA率down(100%)，單人型debuff，持續6回合
+　[命中]200%
+[弱體]敵全體命中率down，攻&#25802;行為有30%機率MISS，單人型debuff，持續6回合
+　[命中]200%
+[END]
+
+[+]&color(#003377){&size(16){''被動.星トモのバカンス ''}}
+[強化]隨隊伍中星晶獸種族的數量，自身獲得階段性能強化(包含自身)
+　1人:攻&#25802;倍率+30%
+　2人:防禦+100%
+　3人:必定TA
+　4人:迴避率+20%，通常類
+　5人:傷害上限+20%
+[END]
+主角不算
+包含小梅在&#20839;要滿層需要全體都是星晶獸
+但實戰來&#35498;拿到3個星晶的效果就非常強了，在往上必要性不高
+有必TA之後能3~4回合一次奧義
+
+[+]&color(#003377){&size(16){''被動.波蛇の姫 ''}}
+[強化]若梅杜莎沒受到傷害，則回合結束時波蛇Lv+1(最大5)，永久不可消除
+[效果]波蛇Lv5時，若梅杜莎沒受到傷害，則回合結束時發動一次&color(#FF0000){■}サーペントスパイク
+[END]
+
+**Limit Bonus
+|~w(40px):圖示|w(140px):center:類別 |w(50px):center:☆1 |w(50px):center:☆2 |w(50px):center:☆3 |w(500px):center:備註 |
+|w(40px):center:|w(140px):center: |w(50px):center: |w(50px):center: |w(50px):center: |w(300px): |c
+|&ref(https://image01.seesaawiki.jp/g/o/gbfssrlistbyod-memo/cc002e81db730ba4.png,40) |攻&#25802;力|500|800|1000||
+|&ref(https://image01.seesaawiki.jp/g/o/gbfssrlistbyod-memo/3fc1f6875c2237cf.png,40) |防禦力|5%|8%|10%||
+|&ref(https://image01.seesaawiki.jp/g/o/gbfssrlistbyod-memo/3fc1f6875c2237cf.png,40) |防禦力|5%|8%|10%||
+|&ref(https://image02.seesaawiki.jp/g/o/gbfssrlistbyod-memo/f2747a4bd4ecaf67.png,40) |HP|250|500|750||
+|&ref(https://image02.seesaawiki.jp/g/o/gbfssrlistbyod-memo/52a8a6933ba510e6.png,40) |風屬性傷害減輕 |2%|4%|5%||
+|>|>|>|>|>||
+|&ref(https://image01.seesaawiki.jp/g/o/gbfssrlistbyod-memo/cc002e81db730ba4.png,40) |攻&#25802;力|500|800|1000||
+|&ref(https://image01.seesaawiki.jp/g/o/gbfssrlistbyod-memo/3fc1f6875c2237cf.png,40) |防禦力|5%|8%|10%||
+|&ref(https://image02.seesaawiki.jp/g/o/gbfssrlistbyod-memo/f2747a4bd4ecaf67.png,40) |HP|250|500|750||
+|&ref(https://image02.seesaawiki.jp/g/o/gbfssrlistbyod-memo/996fe55ab8fbf46a.png,40) |火屬性攻&#25802;力|5%|8%|10%||
+|&ref(https://image02.seesaawiki.jp/g/o/gbfssrlistbyod-memo/33d4609f56564dfd.png,40) |奧義傷害|10%|15%|20%||
+|>|>|>|>|>||
+|&ref(https://image01.seesaawiki.jp/g/o/gbfssrlistbyod-memo/8b482805cb3c9f2f.png,40) |技能傷害上限|5%|8%|10%||
+|&ref(https://image01.seesaawiki.jp/g/o/gbfssrlistbyod-memo/ae45ae629b53f84f.png,40) |奧義上升量|5%|8%|10%||
+|&ref(https://image01.seesaawiki.jp/g/o/gbfssrlistbyod-memo/1d1a18df5772eb55.png,40) |弱體命中率|5%|8%|10%||
+|&ref(https://image01.seesaawiki.jp/g/o/gbfssrlistbyod-memo/246a8cb336a01057.png,40) |敵對心down|小|中|大|敵對心-2/4/5|
+|&ref(https://image01.seesaawiki.jp/g/o/gbfssrlistbyod-memo/1ee80b7a4124ed18.png,40) |角色被動|> |> |> |??? |
+||||||c
+**cross fate
+
+
+泳裝小梅
+突破立繪好大.....我是&#35498;旁邊的薩提&#37292;
+
+該來的還是要來，火屬性的時間暫停，果不其然的又是出在季節限定角上
+這次CY學乖了，一出就有給不能延長的tag防止被玩壞
+包括芙勞的後備效果和技能的延長效果都無法增加持續時間
+基本上有這招就可以算是高難人權級角色了
+
+除此之外技能組定位類似雅典娜和聖誕涅莫涅
+條件疊層後自動發動多段技傷砲
+這次的條件是不受傷，跟涅莫涅一樣
+雖然小梅沒有像涅莫涅那樣的永久指定主角保護的效果
+但持有各種防禦手段
+奧義給的幻影和全迴避
+被動滿層後1技給的5000厚盾和迴避反&#25802;
+以及被動至少2個星晶獸的防禦&#20540;大幅提升
+意外的不太容易受到傷害
+如果隊伍組成至少有3個(含小梅)星晶獸的話，拿到必TA的效果能更加快奧義的迴轉
+高頻率的掛上全體幻影跟自身全迴避，就算敵人偏強也還是能一定程度上發揮波蛇的效果
+比較需要注意的就是普攻全體化而且攻&#25802;超級痛的那種敵人&#21543;
+
+&#21478;外
+因為1技給60%的反射效果，而且CD跟雅典娜的1技40%風cut對齊都是7
+FA一起使用的話可以相當於&#27599;7回合就有一次全體無敵效果
+[+]&color(#003377){&size(16){'' 奧義.メドゥシアナ・スライダー''}} 
+[倍率]4.5倍
+[強化]我方全體幻影效果(1次)，持續永久或直到被打消
+[強化]自身全迴避效果(1次)，受到傷害時消耗此效果並且此回合迴避所有攻&#25802;與弱體&#29376;態，持續永久或直到被消耗
+[END] 
+南斗天翔十字鳳
+那個蛇的後背不是有尖刺的鱗片...玩這麼大的&#21966;
+
+火屬性第一個奧義給全體幻影的角色
+視敵人而定能有不錯的針對性
+
+[+]&color(#003377){&size(16){'' 技能1.ミラージュ・アイ''}} 
+[強化]我方全體反射盾效果(60%)，持續1次或3回合
+[強化]我方全體預防盾效果(1次)，持續永久或直到被消耗
+[強化]如果波蛇Lv5，則追加下列效果
+　我方全體屏障效果(5000)，持續永久或直到被打消
+　我方全體迴避反&#25802;效果(2次/2倍)，持續3回合
+[END] 
+
+**Limit Bonus
+|~w(40px):圖示|w(140px):center:類別 |w(50px):center:☆1 |w(50px):center:☆2 |w(50px):center:☆3 |w(500px):center:備註 |
+|w(40px):center:|w(140px):center: |w(50px):center: |w(50px):center: |w(50px):center: |w(300px): |c
+|&ref(https://image01.seesaawiki.jp/g/o/gbfssrlistbyod-memo/cc002e81db730ba4.png,40) |攻&#25802;力|500|800|1000||
+|&ref(https://image01.seesaawiki.jp/g/o/gbfssrlistbyod-memo/3fc1f6875c2237cf.png,40) |防禦力|5%|8%|10%||
+|&ref(https://image01.seesaawiki.jp/g/o/gbfssrlistbyod-memo/3fc1f6875c2237cf.png,40) |防禦力|5%|8%|10%||
+|&ref(https://image02.seesaawiki.jp/g/o/gbfssrlistbyod-memo/f2747a4bd4ecaf67.png,40) |HP|250|500|750||
+|&ref(https://image02.seesaawiki.jp/g/o/gbfssrlistbyod-memo/52a8a6933ba510e6.png,40) |風屬性傷害減輕 |2%|4%|5%||
+|>|>|>|>|>||
+|&ref(https://image01.seesaawiki.jp/g/o/gbfssrlistbyod-memo/cc002e81db730ba4.png,40) |攻&#25802;力|500|800|1000||
+|&ref(https://image01.seesaawiki.jp/g/o/gbfssrlistbyod-memo/3fc1f6875c2237cf.png,40) |防禦力|5%|8%|10%||
+|&ref(https://image02.seesaawiki.jp/g/o/gbfssrlistbyod-memo/f2747a4bd4ecaf67.png,40) |HP|250|500|750||
+|&ref(https://image02.seesaawiki.jp/g/o/gbfssrlistbyod-memo/996fe55ab8fbf46a.png,40) |火屬性攻&#25802;力|5%|8%|10%||
+|&ref(https://image02.seesaawiki.jp/g/o/gbfssrlistbyod-memo/33d4609f56564dfd.png,40) |奧義傷害|10%|15%|20%||
+|>|>|>|>|>||
+|&ref(https://image01.seesaawiki.jp/g/o/gbfssrlistbyod-memo/8b482805cb3c9f2f.png,40) |技能傷害上限|5%|8%|10%||
+|&ref(https://image01.seesaawiki.jp/g/o/gbfssrlistbyod-memo/ae45ae629b53f84f.png,40) |奧義上升量|5%|8%|10%||
+|&ref(https://image01.seesaawiki.jp/g/o/gbfssrlistbyod-memo/1d1a18df5772eb55.png,40) |弱體命中率|5%|8%|10%||
+|&ref(https://image01.seesaawiki.jp/g/o/gbfssrlistbyod-memo/246a8cb336a01057.png,40) |敵對心down|小|中|大|敵對心-2/4/5|
+|&ref(https://image01.seesaawiki.jp/g/o/gbfssrlistbyod-memo/1ee80b7a4124ed18.png,40) |角色被動|> |> |> |??? |
+||||||c
+**cross fate
+
