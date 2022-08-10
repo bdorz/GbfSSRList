@@ -1,0 +1,13 @@
+E:\Project\GbfSSRList\GbfSSRList\bin\Debug\GbfSSRList.exe.config
+E:\Project\GbfSSRList\GbfSSRList\bin\Debug\GbfSSRList.exe
+E:\Project\GbfSSRList\GbfSSRList\bin\Debug\GbfSSRList.pdb
+E:\Project\GbfSSRList\GbfSSRList\obj\Debug\GbfSSRList.Form1.resources
+E:\Project\GbfSSRList\GbfSSRList\obj\Debug\GbfSSRList.Properties.Resources.resources
+E:\Project\GbfSSRList\GbfSSRList\obj\Debug\GbfSSRList.csproj.GenerateResource.cache
+E:\Project\GbfSSRList\GbfSSRList\obj\Debug\GbfSSRList.csproj.CoreCompileInputs.cache
+E:\Project\GbfSSRList\GbfSSRList\obj\Debug\GbfSSRList.exe
+E:\Project\GbfSSRList\GbfSSRList\obj\Debug\GbfSSRList.pdb
+E:\Project\GbfSSRList\GbfSSRList\obj\Debug\GbfSSRList.csproj.AssemblyReference.cache
+E:\Project\GbfSSRList\GbfSSRList\obj\Debug\GbfSSRList.context.resources
+E:\Project\GbfSSRList\GbfSSRList\obj\Debug\GbfSSRList.LB.resources
+E:\Project\GbfSSRList\GbfSSRList\obj\Debug\GbfSSRList.Tip.resources
